@@ -17,3 +17,13 @@ section {
     color: aliceblue;
     padding: 3rem 2rem;
 }
+
+form {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: brown;
+    color: aliceblue;
+}
